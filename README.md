@@ -6,7 +6,8 @@ The details of the project and process are explained in the Python Notebooks
 ## Getting Started
 **Recommended:** It is recommended you open these Python Notebooks in Google Collab and use it's assissted GPU to run these codes as these are quite heavy programmes and Google Collab provides Tesla K80 GPUs for free to use.
 
-
+## Serial Order
+**Start with "StyleGAN_Encoder" and then proceed with "Face_Editing"**
 
 
 
